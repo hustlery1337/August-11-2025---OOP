@@ -1,0 +1,15 @@
+/workspaces/August-11-2025---OOP/OOPConsole3/bin/Debug/net8.0/OOPConsole3
+/workspaces/August-11-2025---OOP/OOPConsole3/bin/Debug/net8.0/OOPConsole3.deps.json
+/workspaces/August-11-2025---OOP/OOPConsole3/bin/Debug/net8.0/OOPConsole3.runtimeconfig.json
+/workspaces/August-11-2025---OOP/OOPConsole3/bin/Debug/net8.0/OOPConsole3.dll
+/workspaces/August-11-2025---OOP/OOPConsole3/bin/Debug/net8.0/OOPConsole3.pdb
+/workspaces/August-11-2025---OOP/OOPConsole3/obj/Debug/net8.0/OOPConsole3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/August-11-2025---OOP/OOPConsole3/obj/Debug/net8.0/OOPConsole3.AssemblyInfoInputs.cache
+/workspaces/August-11-2025---OOP/OOPConsole3/obj/Debug/net8.0/OOPConsole3.AssemblyInfo.cs
+/workspaces/August-11-2025---OOP/OOPConsole3/obj/Debug/net8.0/OOPConsole3.csproj.CoreCompileInputs.cache
+/workspaces/August-11-2025---OOP/OOPConsole3/obj/Debug/net8.0/OOPConsole3.sourcelink.json
+/workspaces/August-11-2025---OOP/OOPConsole3/obj/Debug/net8.0/OOPConsole3.dll
+/workspaces/August-11-2025---OOP/OOPConsole3/obj/Debug/net8.0/refint/OOPConsole3.dll
+/workspaces/August-11-2025---OOP/OOPConsole3/obj/Debug/net8.0/OOPConsole3.pdb
+/workspaces/August-11-2025---OOP/OOPConsole3/obj/Debug/net8.0/OOPConsole3.genruntimeconfig.cache
+/workspaces/August-11-2025---OOP/OOPConsole3/obj/Debug/net8.0/ref/OOPConsole3.dll
